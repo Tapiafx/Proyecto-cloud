@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #d455b5;
+    background-color: #98ce83;
     margin: 0;
     padding: 0;
     display: flex;
@@ -41,7 +41,7 @@ body {
     padding: 10px;
     margin: 8px 0;
     border-radius: 4px;
-    border: 1px solid #c51481;
+    border: 1px solid #3cca18;
   }
   
   input[type="text"],
