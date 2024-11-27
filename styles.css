@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #d455b5;
     margin: 0;
     padding: 0;
     display: flex;
@@ -17,7 +17,7 @@ body {
   p#description {
     text-align: center;
     font-size: 16px;
-    color: #666;
+    color: #9bdaba;
   }
   
   form#survey-form {
@@ -41,7 +41,7 @@ body {
     padding: 10px;
     margin: 8px 0;
     border-radius: 4px;
-    border: 1px solid #ccc;
+    border: 1px solid #c51481;
   }
   
   input[type="text"],
